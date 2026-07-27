@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "abhishek",
+      "price": 300,
+      "size": "md",
+      "id": "k7n1Zn6luP8"
+    },
+    {
+      "name": "summer collection",
+      "price": 300,
+      "size": "lg",
+      "id": "VBAJLDgbusg"
+    },
+    {
+      "name": "marvel collection",
+      "price": 300,
+      "size": "3xl",
+      "id": "a_onhneXFaA"
+    }
+  ],
+  "comments": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
